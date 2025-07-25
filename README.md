@@ -47,3 +47,25 @@ Press Enter any time to cash out.
 If you cash out before the plane crashes, you win your bet × multiplier.
 
 If you wait too long and the plane crashes, you lose your bet.
+
+🎮 Game Flow Example
+
+🎮 Welcome to Aviator Game!
+Enter your balance: R500
+
+Your current balance: R500
+Enter your bet amount: R50
+
+🛫 Plane is taking off... Press [Enter] to cash out before it crashes!
+Multiplier: x1.20
+Multiplier: x1.45
+Multiplier: x1.81
+[Player presses Enter]
+✅ You cashed out at x1.81 and won R90.50!
+
+Do you want to play again? (yes/no):
+
+⚠️ Disclaimer
+This game is for educational and entertainment purposes only. It simulates betting but does not involve real money.
+
+📁 Project Structure
