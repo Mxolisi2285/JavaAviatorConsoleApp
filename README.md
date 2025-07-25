@@ -69,3 +69,17 @@ Do you want to play again? (yes/no):
 This game is for educational and entertainment purposes only. It simulates betting but does not involve real money.
 
 📁 Project Structure
+AviatorGame/
+│
+├── AviatorGame.java   // Main game logic
+└── README.md          // Project documentation
+✨ Future Improvements (Suggestions)
+Add a GUI version using JavaFX or Swing
+
+Record and display betting history
+
+Add user login and stats tracking
+
+Improve multiplier algorithm for realism
+
+Add sound effects and animations (in GUI)
