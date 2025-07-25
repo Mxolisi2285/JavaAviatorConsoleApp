@@ -73,6 +73,12 @@ AviatorGame/
 │
 ├── AviatorGame.java   // Main game logic
 └── README.md          // Project documentation
+
+
+👨‍💻 Author
+Mxolisi Masina
+
+Java Developer | Software Engineer
 ✨ Future Improvements (Suggestions)
 Add a GUI version using JavaFX or Swing
 
